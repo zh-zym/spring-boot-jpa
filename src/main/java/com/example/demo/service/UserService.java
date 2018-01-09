@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 /**
  * Created by Macx on 2018/1/4.
  */
-@Service
+
 public interface UserService extends BaseService<User,Long>{
 
 }

@@ -7,6 +7,6 @@ import org.springframework.stereotype.Service;
 /**
  * Created by Macx on 2018/1/5.
  */
-@Service
+
 public interface UserOrderService extends BaseService<UserOrder,String> {
 }
